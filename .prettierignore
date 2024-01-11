@@ -1,0 +1,6 @@
+.next
+yarn.lock
+yarn-error.log
+*.json
+bun.lockb
+.husky
